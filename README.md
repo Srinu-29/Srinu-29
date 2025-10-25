@@ -5,7 +5,7 @@
 I'm a passionate Full Stack Developer who loves building scalable web applications and solving complex problems through code. I enjoy working across the entire tech stack, from crafting intuitive user interfaces to designing robust backend systems.
 
 ### 🔗 Connect with Me
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](your-linktree-url-here)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JalaneelaSrinivas)
 
 ---
 
@@ -65,7 +65,7 @@ I'm a passionate Full Stack Developer who loves building scalable web applicatio
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
 
-[![Linktree](https://img.shields.io/badge/All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](your-linktree-url-here)
+[![Linktree](https://img.shields.io/badge/All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JalaneelaSrinivas)
 
 ---
 
